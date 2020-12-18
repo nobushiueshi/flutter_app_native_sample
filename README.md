@@ -1,6 +1,10 @@
-# flutter_app
+# flutter_app_native_sample
 
-A new Flutter application.
+This Flutter application is Sample that It call Native View(ViewController, Activity).
+
+* Flutter Version : 1.22.4
+* Android Studio Version : 4.1
+* Xcode Version : 12.2
 
 ## Getting Started
 
